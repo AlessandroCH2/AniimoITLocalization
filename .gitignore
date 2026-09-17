@@ -1,0 +1,4 @@
+*.bin
+NewTextMap_en.json
+NewTextMap_en_new.json
+extracted_strings.json

@@ -1,0 +1,3 @@
+py extract_text.py - estrae da Compress_en.bin e NewTextMap_en.json
+py rebuild.py - ribuilda i due file usando translated_strings_it.json
+py merge_translations.py - fa il merge da extracted_strings a translated_strings_it per aggiungere nuove stringhe
