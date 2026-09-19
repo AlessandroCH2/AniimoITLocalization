@@ -1,7 +1,7 @@
 import json
 import struct
 
-def rebuild_files(original_map_path, translated_json_path, new_bin_path, new_map_path, version_number=1789468503):
+def rebuild_files(original_map_path, translated_json_path, new_bin_path, new_map_path, version_number=1789637180):
     with open(original_map_path, 'r', encoding='utf-8') as f:
         original_map = json.load(f)
         
